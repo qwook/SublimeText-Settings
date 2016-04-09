@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	"font_face": "Courier New",
+	"font_options":
+	[
+		"no_antialias",
+		"no_round"
+	],
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Spacegray.sublime-theme",
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true
+}
